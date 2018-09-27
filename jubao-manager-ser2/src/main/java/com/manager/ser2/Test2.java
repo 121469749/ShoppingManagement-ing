@@ -4,4 +4,10 @@ public class Test2 {
 
   private String str="哈哈哈哈啊哈";
   
+  
+  
+  public String getTest(){
+	  
+	  return "========================";
+  }
 }
